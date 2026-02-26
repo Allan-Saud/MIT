@@ -1,5 +1,5 @@
 # Go to the project directory
-cd "C:\OneDrive\Documents\MIT Era\Programming_Language(1st_sem)"
+cd Programming_Language(1st_sem)
 
 # Install required packages
 pip install -r requirements.txt
